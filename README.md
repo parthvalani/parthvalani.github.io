@@ -1,4 +1,4 @@
-# Parth Valani
+# Portfolio
 
 Data Engineer with over 3 years of experience in designing and implementing scalable data solutions using Azure and AWS. Expertise in enhancing data quality, optimizing ETL processes and delivering impactful insights.
 
