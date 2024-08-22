@@ -1,9 +1,11 @@
 # Parth Valani
 
+Data Engineer with over 3 years of experience in designing and implementing scalable data solutions using Azure and AWS. Expertise in enhancing data quality, optimizing ETL processes and delivering impactful insights.
+
 **Email:** parthnvalani@gmail.com  
 **Phone:** (807) 357-6372  
 **Location:** Toronto, ON  
-**LinkedIn:** https://www.linkedin.com/in/parthvalani      
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/parthvalani)      
 **Medium:** [Medium](https://medium.com/@valaniparth13)
 
 ---
