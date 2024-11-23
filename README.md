@@ -5,8 +5,7 @@ Data Engineer with 4+ years of experience specializing in cloud-based data solut
 **Email:** parthnvalani@gmail.com  
 **Phone:** (807) 357-6372  
 **Location:** Toronto, ON  
-[Linkedin](https://www.linkedin.com/in/parthvalani)
-[Medium](https://medium.com/@valaniparth13)
+[Linkedin](https://www.linkedin.com/in/parthvalani) | [Medium](https://medium.com/@valaniparth13)
 
 ---
 
